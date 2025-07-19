@@ -1,0 +1,2 @@
+# Undertale Omnidirectional Controller
+A barely usable script which translates controller joystick input into keypresses. Undertale normally works with a controller, but the player is locked into 8 directions. For example, if I hold the stick to the right and slightly up, the player will only move to the right. This script attempts to allow the player to move in any direction by precisely tapping direction keys.
